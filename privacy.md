@@ -192,7 +192,7 @@ _**If you are located in the EU or UK, this section applies to you.**_
 
 The General Data Protection Regulation (GDPR) and UK GDPR require us to explain the valid legal bases we rely on in order to process your personal information. As such, we may rely on the following legal bases to process your personal information:
 
-*   **Consent.** We may process your information if you have given us permission (i.e., consent) to use your personal information for a specific purpose. You can withdraw your consent at any time. Click [here](#withdrawconsent) to learn more.
+*   **Consent.** We may process your information if you have given us permission (i.e., consent) to use your personal information for a specific purpose. You can withdraw your consent at any time. Click [here](#withdrawing-your-consent) to learn more.
 
 *   **Legal Obligations.** We may process your information where we believe it is necessary for compliance with our legal obligations, such as to cooperate with a law enforcement body or regulatory agency, exercise or defend our legal rights, or disclose your information as evidence in litigation in which we are involved.  
 
@@ -205,7 +205,7 @@ The General Data Protection Regulation (GDPR) and UK GDPR require us to explain 
 
 
 
-We may process your information if you have given us specific permission (i.e., express consent) to use your personal information for a specific purpose, or in situations where your permission can be inferred (i.e., implied consent). You can withdraw your consent at any time. Click [here](#withdrawconsent) to learn more.
+We may process your information if you have given us specific permission (i.e., express consent) to use your personal information for a specific purpose, or in situations where your permission can be inferred (i.e., implied consent). You can withdraw your consent at any time. Click [here](#withdrawing-your-consent) to learn more.
 
 
 
