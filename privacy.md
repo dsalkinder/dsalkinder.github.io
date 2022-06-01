@@ -1,15 +1,17 @@
 ---
 layout: default
-title: Privacy Policy
+title: Privacy
 nav_order: 2
 permalink: /privacy/
 ---
 
 ### Apps
 
-[**AP Assassins** (available soon on the App Store and the Google Play Store)]()
+**AP Assassins**
+ * [App Store (available soon)](https://apps.apple.com/us/app/ap-assassins/id1626525028)
+ * Google Play Store (available soon)
 
-### How We Use Your Data
+### Data Privacy
 
 <img src="../images/data_linked_to_you.png" alt="Data Linked to You" width="50%"><img src="../images/data_not_linked_to_you.png" alt="Data Not Linked to You" width="50%">
 
