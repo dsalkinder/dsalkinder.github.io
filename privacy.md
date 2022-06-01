@@ -287,7 +287,7 @@ We have implemented appropriate and reasonable technical and organizational secu
 
 
 
-In some regions (like the EEA, UK, and Canada), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; and (iv) if applicable, to data portability. In certain circumstances, you may also have the right to object to the processing of your personal information. You can make such a request by contacting us by using the contact details provided in the section "[HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#contact)" below.
+In some regions (like the EEA, UK, and Canada), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; and (iv) if applicable, to data portability. In certain circumstances, you may also have the right to object to the processing of your personal information. You can make such a request by contacting us by using the contact details provided in the section "[HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#how-can-you-contact-us-about-this-notice)" below.
 
 
 
@@ -303,7 +303,7 @@ If you are located in Switzerland, the contact details for the data protection a
 
 ### Withdrawing your consent
 
-If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section "[HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#contact)" below or updating your preferences.
+If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section "[HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#how-can-you-contact-us-about-this-notice)" below or updating your preferences.
 
 
 
