@@ -14,11 +14,11 @@ permalink: /privacy/
 
 <img src="../images/data_linked_to_you.png" alt="Data Linked to You" width="50%"><img src="../images/data_not_linked_to_you.png" alt="Data Not Linked to You" width="50%">
 
-**PRIVACY NOTICE**
+# PRIVACY NOTICE
 
 
 
-**Last updated June 01, 2022**
+#### Last updated June 01, 2022
 
 
 
@@ -78,47 +78,47 @@ This privacy notice for Daniel Salkinder ("**Company**," "**we**," "**us**," or 
 
 
 
-Want to learn more about what Daniel Salkinder does with any information we collect? Click [here](#toc) to review the notice in full.
+Want to learn more about what Daniel Salkinder does with any information we collect? Click [here](#table-of-contents) to review the notice in full.
 
 
 
 
 
-**TABLE OF CONTENTS**
+## TABLE OF CONTENTS
 
 
 
-[1\. WHAT INFORMATION DO WE COLLECT?](#infocollect)
+[1\. WHAT INFORMATION DO WE COLLECT?](#what-information-do-we-collect)
 
-[2\. HOW DO WE PROCESS YOUR INFORMATION?](#infouse)
+[2\. HOW DO WE PROCESS YOUR INFORMATION?](#how-do-we-process-your-information)
 
-[3\. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR PERSONAL INFORMATION?](#legalbases)
+[3\. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR PERSONAL INFORMATION?](#what-legal-bases-do-we-rely-on-to-process-your-personal-information)
 
-[4\. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?](#whoshare)
+[4\. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?](#when-and-with-whom-do-we-share-your-personal-information)
 
-[5\. HOW LONG DO WE KEEP YOUR INFORMATION?](#inforetain)
+[5\. HOW LONG DO WE KEEP YOUR INFORMATION?](#how-long-do-we-keep-your-information)
 
-[6\. HOW DO WE KEEP YOUR INFORMATION SAFE?](#infosafe)
+[6\. HOW DO WE KEEP YOUR INFORMATION SAFE?](#how-do-we-keep-your-information-safe)
 
-[7\. WHAT ARE YOUR PRIVACY RIGHTS?](#privacyrights)
+[7\. WHAT ARE YOUR PRIVACY RIGHTS?](#what-are-your-privacy-rights)
 
-[8\. CONTROLS FOR DO-NOT-TRACK FEATURES](#DNT)
+[8\. CONTROLS FOR DO-NOT-TRACK FEATURES](#controls-for-do-not-track-features)
 
-[9\. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?](#caresidents)
+[9\. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?](#do-california-residents-have-specific-privacy-rights)
 
-[10\. DO WE MAKE UPDATES TO THIS NOTICE?](#policyupdates)
+[10\. DO WE MAKE UPDATES TO THIS NOTICE?](#do-we-make-updates-to-this-notice)
 
-[11\. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#contact)
+[11\. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#how-can-you-contact-us-about-this-notice)
 
-[12\. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?](#request)
-
-
-
-**1\. WHAT INFORMATION DO WE COLLECT?**
+[12\. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?](#how-can-you-review-update-or-delete-the-data-we-collect-from-you)
 
 
 
-**Personal information you disclose to us**
+## 1\. WHAT INFORMATION DO WE COLLECT?
+
+
+
+### Personal information you disclose to us
 
 
 
@@ -130,7 +130,9 @@ We collect personal information that you voluntarily provide to us when you regi
 
 
 
-**Personal Information Provided by You.** The personal information that we collect depends on the context of your interactions with us and the Services, the choices you make, and the products and features you use. The personal information we collect may include the following:
+#### Personal Information Provided by You
+
+The personal information that we collect depends on the context of your interactions with us and the Services, the choices you make, and the products and features you use. The personal information we collect may include the following:
 
 *   names
 
@@ -142,11 +144,13 @@ We collect personal information that you voluntarily provide to us when you regi
 
 *   passwords
 
-**Sensitive Information.** We do not process sensitive information.
+#### Sensitive Information.
 
+We do not process sensitive information.
 
+#### Application Data
 
-**Application Data.** If you use our application(s), we also may collect the following information if you choose to provide us with access or permission:
+If you use our application(s), we also may collect the following information if you choose to provide us with access or permission:
 
 *   _Mobile Device Access._ We may request access or permission to certain features from your mobile device, including your mobile device's camera, photo library, and other features. If you wish to change our access or permissions, you may do so in your device's settings.
 
@@ -158,7 +162,7 @@ All personal information that you provide to us must be true, complete, and accu
 
 
 
-**2\. HOW DO WE PROCESS YOUR INFORMATION?**
+## 2\. HOW DO WE PROCESS YOUR INFORMATION?
 
 
 
@@ -174,7 +178,7 @@ All personal information that you provide to us must be true, complete, and accu
 
 
 
-**3\. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION?**
+## 3\. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION?
 
 
 
@@ -231,7 +235,7 @@ In some exceptional cases, we may be legally permitted under applicable law to p
 
 
 
-**4\. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?**
+## 4\. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
 
 
 
@@ -247,7 +251,7 @@ We may need to share your personal information in the following situations:
 
 
 
-**5\. HOW LONG DO WE KEEP YOUR INFORMATION?**
+## 5\. HOW LONG DO WE KEEP YOUR INFORMATION?
 
 
 
@@ -263,7 +267,7 @@ When we have no ongoing legitimate business need to process your personal inform
 
 
 
-**6\. HOW DO WE KEEP YOUR INFORMATION SAFE?**
+## 6\. HOW DO WE KEEP YOUR INFORMATION SAFE?
 
 
 
@@ -275,7 +279,7 @@ We have implemented appropriate and reasonable technical and organizational secu
 
 
 
-**7\. WHAT ARE YOUR PRIVACY RIGHTS?**
+## 7\. WHAT ARE YOUR PRIVACY RIGHTS?
 
 
 
@@ -297,7 +301,9 @@ If you are located in Switzerland, the contact details for the data protection a
 
 
 
-**Withdrawing your consent:** If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section "[HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#contact)" below or updating your preferences.
+### Withdrawing your consent
+
+If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section "[HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#contact)" below or updating your preferences.
 
 
 
@@ -305,7 +311,7 @@ However, please note that this will not affect the lawfulness of the processing 
 
 
 
-**Account Information**
+### Account Information
 
 
 
@@ -321,7 +327,7 @@ If you have questions or comments about your privacy rights, you may email us at
 
 
 
-**8\. CONTROLS FOR DO-NOT-TRACK FEATURES**
+## 8\. CONTROLS FOR DO-NOT-TRACK FEATURES
 
 
 
@@ -329,7 +335,7 @@ Most web browsers and some mobile operating systems and mobile applications incl
 
 
 
-**9\. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?**
+## 9\. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
 
 
 
@@ -345,7 +351,7 @@ If you are under 18 years of age, reside in California, and have a registered ac
 
 
 
-**CCPA Privacy Notice**
+### CCPA Privacy Notice
 
 
 
@@ -367,7 +373,7 @@ If this definition of "resident" applies to you, we must adhere to certain right
 
 
 
-**What categories of personal information do we collect?**
+### What categories of personal information do we collect?
 
 
 
@@ -501,7 +507,7 @@ We may also collect other personal information outside of these categories insta
 
 *   Facilitation in the delivery of our Services and to respond to your inquiries.
 
-**How do we use and share your personal information?**
+### How do we use and share your personal information?
 
 
 
@@ -517,7 +523,7 @@ If you are using an authorized agent to exercise your right to opt out we may de
 
 
 
-**Will your information be shared with anyone else?**
+### Will your information be shared with anyone else?
 
 
 
@@ -533,7 +539,7 @@ Daniel Salkinder has not disclosed or sold any personal information to third pa
 
 
 
-**Your rights with respect to your personal data**
+### Your rights with respect to your personal data
 
 
 
@@ -603,7 +609,7 @@ To exercise these rights, you can contact us by email at mutya.dev@gmail.com, o
 
 
 
-**10\. DO WE MAKE UPDATES TO THIS NOTICE?**
+## 10\. DO WE MAKE UPDATES TO THIS NOTICE?
 
 
 
@@ -615,7 +621,7 @@ We may update this privacy notice from time to time. The updated version will be
 
 
 
-**11\. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?**
+## 11\. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 
 
 
@@ -623,7 +629,7 @@ If you have questions or comments about this notice, you may email us at mutya.d
 
 
 
-**12\. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?**
+## 12\. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
 
 
