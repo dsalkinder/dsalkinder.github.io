@@ -7,7 +7,7 @@ permalink: /privacy/
 
 ### Apps
 
-[**AP Assassins** (Available soon on the App Store and the Google Play Store)]()
+[**AP Assassins** (available soon on the App Store and the Google Play Store)]()
 
 ### Privacy Policy
 
