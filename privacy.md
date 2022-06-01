@@ -58,7 +58,7 @@ This privacy notice for Daniel Salkinder ("**Company**," "**we**," "**us**," or 
 
 
 
-**How do we process your information?** We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Click [here](#what-legal-bases-do-we-rely-on-to-process-your-personal-information) to learn more.
+**How do we process your information?** We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Click [here](#what-legal-bases-do-we-rely-on-to-process-your-information) to learn more.
 
 
 
@@ -92,7 +92,7 @@ Want to learn more about what Daniel Salkinder does with any information we coll
 
 [2\. HOW DO WE PROCESS YOUR INFORMATION?](#how-do-we-process-your-information)
 
-[3\. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR PERSONAL INFORMATION?](#what-legal-bases-do-we-rely-on-to-process-your-personal-information)
+[3\. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR PERSONAL INFORMATION?](#what-legal-bases-do-we-rely-on-to-process-your-information)
 
 [4\. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?](#when-and-with-whom-do-we-share-your-personal-information)
 
