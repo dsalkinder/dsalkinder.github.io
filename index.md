@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Me
+title: Contact Me
 nav_order: 1
 permalink: /
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mobile Application Privacy Policy
+title: Privacy Policy
 nav_order: 2
 permalink: /privacy/
 ---
