@@ -42,11 +42,11 @@ This privacy notice for Daniel Salkinder ("**Company**," "**we**," "**us**," or 
 
 
 
-**_This summary provides key points from our privacy notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our table of contents below to find the section you are looking for. You can also click_** [**_here_**](#toc) **_to go directly to our table of contents._**
+**_This summary provides key points from our privacy notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our table of contents below to find the section you are looking for. You can also click_** [**_here_**](#table-of-contents) **_to go directly to our table of contents._**
 
 
 
-**What personal information do we process?** When you visit, use, or navigate our Services, we may process personal information depending on how you interact with Daniel Salkinder and the Services, the choices you make, and the products and features you use. Click [here](#personalinfo) to learn more.
+**What personal information do we process?** When you visit, use, or navigate our Services, we may process personal information depending on how you interact with Daniel Salkinder and the Services, the choices you make, and the products and features you use. Click [here](#what-information-do-we-collect) to learn more.
 
 
 
@@ -58,19 +58,19 @@ This privacy notice for Daniel Salkinder ("**Company**," "**we**," "**us**," or 
 
 
 
-**How do we process your information?** We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Click [here](#infouse) to learn more.
+**How do we process your information?** We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Click [here](#what-legal-bases-do-we-rely-on-to-process-your-personal-information) to learn more.
 
 
 
-**In what situations and with which parties do we share personal information?** We may share information in specific situations and with specific third parties. Click [here](#whoshare) to learn more.
+**In what situations and with which parties do we share personal information?** We may share information in specific situations and with specific third parties. Click [here](#when-and-with-whom-do-we-share-your-personal-information) to learn more.
 
 
 
-**How do we keep your information safe?** We have organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Click [here](#infosafe) to learn more.
+**How do we keep your information safe?** We have organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Click [here](#how-do-we-keep-your-information-safe) to learn more.
 
 
 
-**What are your rights?** Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Click [here](#privacyrights) to learn more.
+**What are your rights?** Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Click [here](#what-are-your-privacy-rights) to learn more.
 
 
 
@@ -114,7 +114,7 @@ Want to learn more about what Daniel Salkinder does with any information we coll
 
 
 
-## 1\. WHAT INFORMATION DO WE COLLECT?
+## WHAT INFORMATION DO WE COLLECT?
 
 
 
@@ -162,7 +162,7 @@ All personal information that you provide to us must be true, complete, and accu
 
 
 
-## 2\. HOW DO WE PROCESS YOUR INFORMATION?
+## HOW DO WE PROCESS YOUR INFORMATION?
 
 
 
@@ -178,7 +178,7 @@ All personal information that you provide to us must be true, complete, and accu
 
 
 
-## 3\. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION?
+## WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION?
 
 
 
@@ -235,7 +235,7 @@ In some exceptional cases, we may be legally permitted under applicable law to p
 
 
 
-## 4\. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
+## WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
 
 
 
@@ -251,7 +251,7 @@ We may need to share your personal information in the following situations:
 
 
 
-## 5\. HOW LONG DO WE KEEP YOUR INFORMATION?
+## HOW LONG DO WE KEEP YOUR INFORMATION?
 
 
 
@@ -267,7 +267,7 @@ When we have no ongoing legitimate business need to process your personal inform
 
 
 
-## 6\. HOW DO WE KEEP YOUR INFORMATION SAFE?
+## HOW DO WE KEEP YOUR INFORMATION SAFE?
 
 
 
@@ -279,7 +279,7 @@ We have implemented appropriate and reasonable technical and organizational secu
 
 
 
-## 7\. WHAT ARE YOUR PRIVACY RIGHTS?
+## WHAT ARE YOUR PRIVACY RIGHTS?
 
 
 
@@ -327,7 +327,7 @@ If you have questions or comments about your privacy rights, you may email us at
 
 
 
-## 8\. CONTROLS FOR DO-NOT-TRACK FEATURES
+## CONTROLS FOR DO-NOT-TRACK FEATURES
 
 
 
@@ -335,7 +335,7 @@ Most web browsers and some mobile operating systems and mobile applications incl
 
 
 
-## 9\. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
+## DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
 
 
 
@@ -609,7 +609,7 @@ To exercise these rights, you can contact us by email at mutya.dev@gmail.com, o
 
 
 
-## 10\. DO WE MAKE UPDATES TO THIS NOTICE?
+## DO WE MAKE UPDATES TO THIS NOTICE?
 
 
 
@@ -621,7 +621,7 @@ We may update this privacy notice from time to time. The updated version will be
 
 
 
-## 11\. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
+## HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 
 
 
@@ -629,7 +629,7 @@ If you have questions or comments about this notice, you may email us at mutya.d
 
 
 
-## 12\. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
+## HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
 
 
