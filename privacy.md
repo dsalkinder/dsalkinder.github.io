@@ -7,7 +7,7 @@ permalink: /privacy/
 
 ###  AP Assassins
 
-[**App Store (available soon)**](https://apps.apple.com/us/app/ap-assassins/id1626525028)
+[**App Store**](https://apps.apple.com/us/app/ap-assassins/id1626525028)
 **Google Play Store (available soon)**
 
 ### Data Privacy
